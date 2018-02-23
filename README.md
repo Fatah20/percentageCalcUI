@@ -9,4 +9,4 @@ it was a great way to to experiemnt with setting up JavaScript Development Envir
 The api [project] (https://github.com/Fatah20/percentagecalculator).
 
 [There is also a UI project that just uses JavaScript and Jquery for the UI](https://github.com/Fatah20/jsStarteKit)
-I created this as part of my JavaScript Development Environment set started kit.
+I created this as part of my JavaScript Development Environment started kit.
