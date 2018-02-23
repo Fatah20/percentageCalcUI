@@ -5,8 +5,7 @@
   font-size: 16px;
   line-height: 1.4;
   margin: 0 auto;
-  text-align: left;
-  width: 720px;
+  text-align: center;
 }
 
 .App-logo {
@@ -24,17 +23,19 @@
 .App-title {
   font-size: 1.5em;
   display: inline;
+  vertical-align: top;
 }
 
 .App-intro {
   font-size: large;
+  margin: 20px;
 }
 
 .whatis {
   background: -webkit-linear-gradient(left, #eee, #f9f9f9);
   border: 1px solid #ccc;
   border-radius: 10px;
-  margin: 15px 0;
+  margin: 15px;
   padding: 12px
 }
 
@@ -42,7 +43,7 @@
   background: -webkit-linear-gradient(left, #eee, #f9f9f9);
   border: 1px solid #ccc;
   border-radius: 10px;
-  margin: 15px 0;
+  margin: 15px;
   padding: 12px
 }
 
@@ -50,11 +51,15 @@
   background: -webkit-linear-gradient(left, #eee, #f9f9f9);
   border: 1px solid #ccc;
   border-radius: 10px;
-  margin: 15px 0;
+  margin: 15px;
   padding: 12px
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
