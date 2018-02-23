@@ -5,8 +5,7 @@ it was a great way to to experiemnt with setting up JavaScript Development Envir
 -- Used Create React App for the react version.
 
 ## Technologies used 
-
-	 whatwg-fetch
+	  whatwg-fetch
     react
     react-dom
     react-scripts
